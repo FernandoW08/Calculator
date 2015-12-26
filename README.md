@@ -1,2 +1,2 @@
 # Calculator
-Calculator using an operand stack
+Calculator with an operand stack
